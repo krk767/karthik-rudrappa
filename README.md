@@ -16,8 +16,8 @@
 ### **Programming & Analytics**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 
 </div>
@@ -29,7 +29,6 @@
 
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/A/B%20Testing-4A154B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Forecasting-0A66C2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Feature%20Engineering-000000?style=for-the-badge"/>
